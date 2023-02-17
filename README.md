@@ -1,3 +1,3 @@
 # ericyyf.github.io
    personal necessary apps
-   download
+   [download](https://github.com/ericyyf/ericyyf.github.io/releases/tag/latest)

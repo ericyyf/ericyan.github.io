@@ -1,3 +1,3 @@
-# ericyyf.github.io
-   personal necessary apps
+# ericyan.github.io
+   personal use only
    [download](https://github.com/ericyyf)
